@@ -85,7 +85,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://nimble-dragon-878efd.netlify.app/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
+<a href = "https://shashi-ranjan.netlify.app/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/shashi-ranjan-891460226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/home"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/shashi94ranjan/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
